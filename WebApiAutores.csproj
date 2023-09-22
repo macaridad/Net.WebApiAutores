@@ -5,6 +5,9 @@
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>99a9811e-b160-40c9-845c-06f7bbeadb44</UserSecretsId>
+	  <BaseOutputPath>bin</BaseOutputPath>
+	  <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	  <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
   <ItemGroup>
